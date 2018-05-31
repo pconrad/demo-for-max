@@ -43,3 +43,7 @@ You need to do that in each terminal session before you run Python
 (4) Run the code in `tryTwitter.py` with `python3 -i tryTwitter.py`
 
 Good luck!
+
+(5) Read the documentation to find out more about what you can do:
+
+https://github.com/geduldig/TwitterAPI
